@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ConsoleApp1
 
@@ -8,8 +9,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C# :)");
-            Console.WriteLine("Привет C# :)");
+            Console.WriteLine("Hello World from ConsoleApp1");
+            Console.ReadLine();
         }
     }
 }
